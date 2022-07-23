@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarshanBPatel
-- 👀 I’m interested in Competitive Coding , Web Development and Machine Learning.
-- Currently I am Doing my M.Tech From Indian Institute of Information Technology , Allahabad.
+- 👀 I’m interested in Web Development, Backend Development, Algorithm Design and Open-source contribution.
+- Currently working as software engineer at X-EPIC and Computer Science Graduate from IIIT Allahabad.
 
 <!---
 DarshanBPatel/DarshanBPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
