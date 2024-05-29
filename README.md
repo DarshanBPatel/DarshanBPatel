@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DarshanBPatel
+- Protocol Engineer at @waku
 - 👀 Computer Science Graduate from IIIT Allahabad.
 
 <!---
